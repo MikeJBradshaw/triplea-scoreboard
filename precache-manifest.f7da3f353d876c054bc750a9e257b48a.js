@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "87d2f2d9720d1b780b48",
+    "revision": "ad3edecf2c6a5829e0b0",
     "url": "/triplea-scoreboard/static/css/main.2e6ae41f.chunk.css"
   },
   {
-    "revision": "87d2f2d9720d1b780b48",
-    "url": "/triplea-scoreboard/static/js/main.87d2f2d9.chunk.js"
+    "revision": "ad3edecf2c6a5829e0b0",
+    "url": "/triplea-scoreboard/static/js/main.ad3edecf.chunk.js"
   },
   {
     "revision": "dfb52d676641ceef0061",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/triplea-scoreboard/static/js/runtime~main.f2a6c303.js"
   },
   {
-    "revision": "40d65c616d4d077bede13abaa146d638",
+    "revision": "d8271c44f76bf43ab189f02d091a5996",
     "url": "/triplea-scoreboard/index.html"
   }
 ];
