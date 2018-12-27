@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/triplea-scoreboard/precache-manifest.f7da3f353d876c054bc750a9e257b48a.js"
+  "/triplea-scoreboard/precache-manifest.be431f23a517fc1270837b1b7cf02700.js"
 );
 
 workbox.clientsClaim();
